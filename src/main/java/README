@@ -13,21 +13,8 @@ git push
 2. we need to have github account
 3. github account setup in intellij
 
-git pull=fetche+merge
-
+git pull
 
 git branches
-1-Pull the latest change from remote;
-2-Create branch
-3-Make changes/Implement the feature
-4-Commit the changes.(Keep commits atomic)
-5-Push the code to remote
-6-Create a pull request to merge feature branch into main/master
-7-Merge the code once approved
 
-git revert/undo/drop commits
-
-1.Revert/Reset commit->History will be maintained into git log
-2.Drop/Commit->No history will be maintained
-3.Undo/Commit->Drop the commit but the file changet will be still valid
 
